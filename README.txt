@@ -6,3 +6,4 @@ Data
 block&point: Source code of FSCS and FSCS-CTSR for block and point patterns.
 
 strip: ource code of FSCS and FSCS-CTSR for strip pattern.
+
